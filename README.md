@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rida 👋
 
-<!--
-**Rida-data/Rida-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 SY BSc Statistics and Mathematics student
 
-Here are some ideas to get you started:
+## About Me
+- 📊 Exploring statistics, mathematics, and data science
+- 🐍 Beginning my journey with Python
+- 📚 Building my skills one step at a time
+- 🎯 Goal: Prepare for MSc Data Science and future data-related roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Statistics and probability
+- Python programming
+- GitHub and version control
+
+## My Projects
+I'll add my statistics and data science projects here as I learn.
+
+---
+*Learning, practicing, and improving every day.*
